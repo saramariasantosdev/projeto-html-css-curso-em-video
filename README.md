@@ -3,3 +3,5 @@
 ## Página pessoal simples
 
 ## Página de vídeos
+
+**Confira o resultado 😊:** https://saramariasantosdev.github.io/projeto-html-css-curso-em-video/
